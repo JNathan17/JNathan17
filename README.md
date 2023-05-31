@@ -2,7 +2,7 @@
 
 - 🔭 Foco em front-fnd
 - 🌱 Estudando Javascript
-- 📫 Contato: jnathantavares@bol.com.br
+- 📫 Contato: josenathanprofissional@gmail.com
 
 <div align="center">
   <a href="https://github.com/JNathan17">
