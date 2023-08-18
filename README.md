@@ -1,6 +1,5 @@
 ## Hi, i am José Nathan
 
-- 🔭 Foco em front-end
-- 🌱 Estudando Javascript
+- 🌱 |Dev-FullStack - FREELANCER
 - 📫 Contato: josenathanprofissional@gmail.com
 
